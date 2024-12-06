@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1887/mot_1887_janmar_ak__25/mot_1887_janmar_ak__25-002.pdf
+---
