@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1875/mot_1875__ak__reg/mot_1875__ak__reg-004.pdf
+---
