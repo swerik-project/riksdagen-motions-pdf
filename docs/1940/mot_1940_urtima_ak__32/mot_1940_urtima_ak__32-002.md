@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1940/mot_1940_urtima_ak__32/mot_1940_urtima_ak__32-002.pdf
+---
