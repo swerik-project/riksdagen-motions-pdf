@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1939/mot_1939_urtima_fk__39/mot_1939_urtima_fk__39-003.pdf
+---
