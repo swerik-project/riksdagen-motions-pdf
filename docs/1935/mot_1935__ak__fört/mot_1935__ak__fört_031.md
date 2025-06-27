@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1935/mot_1935__ak__fört/mot_1935__ak__fört_031.pdf
+---

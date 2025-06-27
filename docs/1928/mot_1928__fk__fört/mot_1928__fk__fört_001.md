@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1928/mot_1928__fk__fört/mot_1928__fk__fört_001.pdf
+---

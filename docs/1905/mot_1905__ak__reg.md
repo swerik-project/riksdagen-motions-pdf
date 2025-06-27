@@ -1,4 +1,4 @@
 ---
 layout: default
-UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1905/mot_1905__ak__reg.pdf
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1905/mot_1905__ak__reg.pdf
 ---

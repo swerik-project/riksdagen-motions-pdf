@@ -1,4 +1,4 @@
 ---
 layout: default
-UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1867/mot_1867__fk__reg.pdf
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1867/mot_1867__fk__reg.pdf
 ---

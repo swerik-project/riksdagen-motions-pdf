@@ -1,4 +1,4 @@
 ---
 layout: default
-UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1896/mot_1896__fk__fört.pdf
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1896/mot_1896__fk__fört.pdf
 ---

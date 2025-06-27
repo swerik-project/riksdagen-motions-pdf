@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1875/mot_1875__ak__fört/mot_1875__ak__fört_006.pdf
+---

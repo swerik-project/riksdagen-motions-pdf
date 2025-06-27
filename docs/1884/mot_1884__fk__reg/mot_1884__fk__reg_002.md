@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1884/mot_1884__fk__reg/mot_1884__fk__reg_002.pdf
+---

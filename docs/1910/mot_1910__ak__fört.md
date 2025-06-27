@@ -1,4 +1,4 @@
 ---
 layout: default
-UpRedirect: https://pruto.im.uu.se/riksdagen-motions-pdf/1910/mot_1910__ak__fört.pdf
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1910/mot_1910__ak__fört.pdf
 ---

@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-motions-pdf/1919/mot_1919_urtima_fk__00004.pdf
+---
